@@ -1,0 +1,3 @@
+defaults:
+  - image: image   # image.yaml 불러옴
+  - model: vit_small_8

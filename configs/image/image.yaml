@@ -1,0 +1,5 @@
+image:
+  image_path: sample/nuclei.png
+  image_size: 480
+  output_dir: outputs
+  output_path: None

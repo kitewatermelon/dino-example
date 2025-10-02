@@ -1,0 +1,4 @@
+arch: "vit_small"
+patch_size: 16
+original_checkpoint: "checkpoint/dino_deitsmall16_pretrain_full_checkpoint.pth"
+dax_checkpoint: "checkpoint/dax-checkpoint-vit-s-16-version-b.pth"
