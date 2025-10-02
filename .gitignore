@@ -1,3 +1,6 @@
 *.pth
 2025-*/
 sample/
+.vscode/
+__pycache__/
+dino-example.ipynb
