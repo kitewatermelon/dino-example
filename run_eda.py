@@ -4,10 +4,10 @@ import subprocess
 # 처리할 상위 폴더와 출력 폴더
 folders = [
     # "sample/lucchi",
-    # "sample/nuclei",
+    "sample/nuclei",
     # "sample/brats",
     # "sample/covid",
-    "sample/synthrad"
+    # "sample/synthrad"
 ]
 
 output_base = "outputs"
